@@ -33,6 +33,7 @@
 *.out
 *.app
 *.i*86
+``
 *.x86_64
 *.hex
 
@@ -53,3 +54,6 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Names used
+shell
